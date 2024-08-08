@@ -1,6 +1,3 @@
-Sure! Below is a detailed `README.md` file for your project. This file provides an overview of the project, installation instructions, usage, and other relevant details.
-
-```markdown
 # WanderLust
 
 WanderLust is a web application designed for users to list and review various travel destinations. Users can create an account, log in, list new destinations, and review existing ones. The application is built using Node.js, Express, MongoDB, and EJS for templating.
@@ -143,5 +140,3 @@ WanderLust/
 - **includes/navbar.ejs**: Navbar incldues
 - **partials/footer.ejs**: Footer includes
 - **error.ejs**: Error page
-
-```
