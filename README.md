@@ -138,5 +138,5 @@ WanderLust/
 - **users/register.ejs**: Form to register a new user
 - **users/login.ejs**: Form to log in
 - **includes/navbar.ejs**: Navbar incldues
-- **partials/footer.ejs**: Footer includes
+- **includes/footer.ejs**: Footer includes
 - **error.ejs**: Error page
